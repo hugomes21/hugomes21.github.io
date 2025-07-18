@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.f9c8a259.js",
-    "static/js/453.b8e892cb.chunk.js": "/static/js/453.b8e892cb.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.f9c8a259.js.map": "/static/js/main.f9c8a259.js.map",
-    "453.b8e892cb.chunk.js.map": "/static/js/453.b8e892cb.chunk.js.map"
+    "main.css": "/rodasportfolio/static/css/main.f855e6bc.css",
+    "main.js": "/rodasportfolio/static/js/main.06ceb165.js",
+    "static/js/453.b8e892cb.chunk.js": "/rodasportfolio/static/js/453.b8e892cb.chunk.js",
+    "index.html": "/rodasportfolio/index.html",
+    "main.f855e6bc.css.map": "/rodasportfolio/static/css/main.f855e6bc.css.map",
+    "main.06ceb165.js.map": "/rodasportfolio/static/js/main.06ceb165.js.map",
+    "453.b8e892cb.chunk.js.map": "/rodasportfolio/static/js/453.b8e892cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f9c8a259.js"
+    "static/js/main.06ceb165.js"
   ]
 }
