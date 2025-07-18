@@ -1,6 +1,6 @@
 {
   "name": "rodasportfolio",
-  "homepage": "https://hugomes.github.io/rodasportfolio/",
+  "homepage": "https://hugomes21.github.io/rodasportfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +11,7 @@
     "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+    "react-router-dom": "^7.7.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
